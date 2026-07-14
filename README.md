@@ -1,0 +1,1 @@
+Social Media User Engagement Analytics is a Python-based desktop application that manages users, posts, interactions, and followers using SQLite. It provides a dashboard with engagement statistics, top users, post distribution, and interaction analytics, along with an SQL query runner for custom data analysis.
